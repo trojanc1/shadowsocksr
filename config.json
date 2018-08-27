@@ -14,7 +14,7 @@
     "speed_limit_per_con": 0,
     "speed_limit_per_user": 0,
 
-    "additional_ports" : {5586,5587}, // only works under multi-user mode
+    "additional_ports" : {}, // only works under multi-user mode
     "additional_ports_only" : false, // only works under multi-user mode
     "timeout": 120,
     "udp_timeout": 60,
