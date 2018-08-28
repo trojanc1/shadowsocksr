@@ -1,11 +1,14 @@
 {
     "server": "0.0.0.0",
     "server_ipv6": "::",
-    "server_port": 5585,
     "local_address": "127.0.0.1",
     "local_port": 1080,
 
-    "password": "yfyfy516",
+    "port_password": {
+        "5580":"yfyfy516",
+        "5581":"guest@1"
+    },
+    
     "method": "chacha20",
     "protocol": "auth_chain_a",
     "protocol_param": "",
