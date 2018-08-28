@@ -1,7 +1,7 @@
 FROM alpine:3.7
 
 ENV SERVER_ADDR     0.0.0.0
-ENV SERVER_PORT     5585
+ENV SERVER_PORT     5580
 ENV PASSWORD        yfyfy516
 ENV METHOD          chacha20
 ENV PROTOCOL        auth_chain_a
