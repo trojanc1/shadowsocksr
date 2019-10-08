@@ -9,8 +9,8 @@
         "5581":"guest@1"
     },
     
-    "method": "chacha20",
-    "protocol": "auth_chain_a",
+    "method": "rc4-md5",
+    "protocol": "auth_aes128_sha1",
     "protocol_param": "",
     "obfs": "plain",
     "obfs_param": "",
